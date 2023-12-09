@@ -1,6 +1,12 @@
 <a href="https://www.linkedin.com/in/partha-malakar-ba1350247/">
-<img src="" />
+<img src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/1.jpg" />
 </a>
+
+## Current Stats
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ParthaMalakar" alt="GitHub Streak" /></a>
+
+## Top languages used in repository card
+
 
 <!--
 **ParthaMalakar/ParthaMalakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
