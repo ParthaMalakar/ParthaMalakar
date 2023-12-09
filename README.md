@@ -21,7 +21,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/partha-malakar-ba1350247/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](parthamalakar667@gmail.com)
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/images.jpg">](https://www.linkedin.com/in/partha-malakar-ba1350247/)[<img height="75" src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/images.png">](parthamalakar667@gmail.com)
 
 <br />
 
