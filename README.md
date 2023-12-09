@@ -7,8 +7,9 @@
 <a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ParthaMalakar" alt="GitHub Streak" /></a>
 </p>
 
-## Top languages used in repository card
-<br>
+## Top Languages by Repo
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthaMalakar&theme=default)
+## Profile Details
 
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthaMalakar&theme=default)
 
