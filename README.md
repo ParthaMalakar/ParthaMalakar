@@ -7,9 +7,9 @@
 <a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ParthaMalakar" alt="GitHub Streak" /></a>
 </p>
 
-
+<p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthaMalakar&theme=default" alt="Top Languages" width="250" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthaMalakar&theme=default&utcOffset=8" alt="Productive Time" width="250" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthaMalakar&theme=default" alt="Stats" width="250" />
-
+</p>
 
 ## Profile Details
 
