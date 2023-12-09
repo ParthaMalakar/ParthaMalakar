@@ -8,7 +8,7 @@
 </p>
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthaMalakar&theme=default" alt="Top Languages" width="300" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthaMalakar&theme=default&utcOffset=8" alt="Productive Time" width="280" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthaMalakar&theme=default" alt="Stats" width="300" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthaMalakar&theme=default" alt="Top Languages" width="250" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthaMalakar&theme=default&utcOffset=8" alt="Productive Time" width="250" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthaMalakar&theme=default" alt="Stats" width="250" />
 
 
 ## Profile Details
