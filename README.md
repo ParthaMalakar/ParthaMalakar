@@ -13,7 +13,10 @@
 
 ## Profile Details
 
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthaMalakar&theme=default)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthaMalakar&theme=default" alt="GitHub Profile Summary" />
+</p>
+
 
 
 
