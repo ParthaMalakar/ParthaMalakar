@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/partha-malakar-ba1350247/">
-    <img height="50" src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/images.jpg" alt="LinkedIn" />
+    <img height="50" src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/linkedin%20(1).png" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:parthamalakar667@gmail.com">
     <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g-BP6Q89DmnjLqj0yWYSFnO21_1vCaiIvQ&us" alt="Email" />
