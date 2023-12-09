@@ -21,7 +21,15 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/images.jpg">](https://www.linkedin.com/in/partha-malakar-ba1350247/)[<img height="75" src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/images.png">](parthamalakar667@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/partha-malakar-ba1350247/">
+    <img height="50" src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/images.jpg" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:parthamalakar667@gmail.com">
+    <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g-BP6Q89DmnjLqj0yWYSFnO21_1vCaiIvQ&us" alt="Email" />
+  </a>
+</p>
+
 
 <br />
 
