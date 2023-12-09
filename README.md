@@ -58,7 +58,20 @@
 </p><br/>
 
 
+## :eyes: Current overview
 
+
+
+
+### 🔭 I’m working - In MERN Stack Development. 
+### 🌱 I’m exploring - New library or package for web development. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To improve my web development skills. 
+### ⚡ Fun fact - I love to make jokes.
+
+
+<br />
+<!-- 
 **ParthaMalakar/ParthaMalakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -70,5 +83,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
