@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/partha-malakar-ba1350247/">
+<img src="" />
+</a>
 
 <!--
 **ParthaMalakar/ParthaMalakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
