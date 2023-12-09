@@ -17,7 +17,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthaMalakar&theme=default" alt="GitHub Profile Summary" />
 </p>
 
+## :mailbox: Reach me out
 
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/partha-malakar-ba1350247/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](parthamalakar667@gmail.com)
+
+<br />
 
 
 <!--
