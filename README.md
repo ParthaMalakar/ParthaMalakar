@@ -1,6 +1,28 @@
 <a href="https://www.linkedin.com/in/partha-malakar-ba1350247/">
 <img src="https://raw.githubusercontent.com/ParthaMalakar/ParthaMalakar/main/images/1.jpg" />
 </a>
+</br>
+
+## Description
+<p>
+🚀 Full-Stack Developer | MERN Stack Developer 🌐
+
+Passionate about crafting seamless web experiences with the MERN (MongoDB, Express.js, React.js, Node.js) stack. I specialize in designing and building robust web applications, bringing ideas to life in the ever-evolving landscape of web development.
+
+🛠️ Tech Stack:
+
+MongoDB for efficient data management
+Express.js for optimizing server-side functionalities
+React.js for dynamic and responsive user interfaces
+Node.js for powering the backend
+
+💡 Highlights:
+
+Clean code advocate
+Innovative problem solver
+Experienced in creating dynamic and responsive UIs
+Dedicated to optimizing server-side functionalities
+</p>
 
 ## Current Stats
 <p align="center">
