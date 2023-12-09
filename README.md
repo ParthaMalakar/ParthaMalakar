@@ -8,14 +8,12 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthaMalakar&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthaMalakar&theme=default&utcOffset=8)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParthaMalakar&theme=default) ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthaMalakar&theme=default&utcOffset=8)
 
 ## Profile Details
-<p align="center">
+
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthaMalakar&theme=default)
-</p>
+
 
 
 <!--
