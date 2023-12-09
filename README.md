@@ -3,8 +3,9 @@
 </a>
 
 ## Current Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ParthaMalakar" alt="GitHub Streak" /></a>
-
+<p align="center">
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ParthaMalakar" alt="GitHub Streak" /></a>
+</p>
 ## Top languages used in repository card
 
 
